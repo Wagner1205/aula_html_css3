@@ -1,0 +1,29 @@
+body{
+    background-color: white;  
+    margin-left: 100px;
+    margin-right: 300;
+}
+header{
+    margin-top: 40px;
+}
+h2{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: grey;
+    font-family: fantasy;
+}
+p{
+    font-size: 18px;
+}
+footer{
+    margin-bottom: 30px;
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: "300px";
+}
+.logo{
+    width: 40px;
+}
